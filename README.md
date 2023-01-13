@@ -12,7 +12,7 @@ I'm **Chloe**, a data engineering student at UTM :mortar_board:
 - 🛢️ MySQL
 
 ### Connect with Me 📫
-<a href="www.linkedin.com/in/chloe-racquelmae-75578a259" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Chloe Racquelmae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chloe-racquelmae-75578a259/"></a></t>
+<a href="www.linkedin.com/in/chloerqk07" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Chloe Racquelmae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chloerqk07/"></a></t>
 <a href="mailto:chloe@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-chloe@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloe@graduate.utm.my"></a>
 
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=racquelmae&show_icons=true&hide_border=true&theme=buefy">
